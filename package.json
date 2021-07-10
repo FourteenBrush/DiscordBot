@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "pm2-runtime start ecosystem.config.js --env production"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-pre-gyp": "^0.17.0",
+    "node.js": "0.0.1-security",
+    "pretty-ms": "^7.0.1",
+    "python": "0.0.4",
+    "sequelize": "^6.4.0"
+  }
+}
